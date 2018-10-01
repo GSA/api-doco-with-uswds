@@ -1,0 +1,5 @@
+---
+url: "openapi.yaml"
+dom_id: "#swagger-ui"
+docExpansion: "full"
+defaultModelsExpandDepth: 2

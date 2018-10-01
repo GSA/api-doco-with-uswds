@@ -1,0 +1,29 @@
+
+/* Swagger UI fixes here */
+
+/* fix swagger ul */
+#swagger-ui-container ul {
+    margin-left: 0;
+}
+
+div .topbar, div .global-server-container, #operations-tag- {
+    display: none !important;
+}
+
+th .parameters-col_name {
+    background-color: black;
+}
+
+hgroup.main span.url {
+    display: none !important;
+
+}
+
+
+.swagger-ui input[type=text] {
+    border: 1px solid black !important;
+}
+
+nav h1,h2,h3 {
+    margin: 0!important;
+}
