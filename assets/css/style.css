@@ -19,6 +19,10 @@ hgroup.main span.url {
 
 }
 
+hgroup.main a.link {
+    display: none !important;
+}
+
 
 .swagger-ui input[type=text] {
     border: 1px solid black !important;
