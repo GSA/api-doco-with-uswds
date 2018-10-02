@@ -1,8 +1,8 @@
-# GSA API Documentation Template - accessible and using USWDS
+# API Documentation Template - simple, accessible and using USWDS
 
 This is an updated version of the GSA API Documentation template. It has the following improvements:
 - Tested for [Section 508 accessbility](https://section508.gov/)
-- Uses [U.S. Web Design System](https://designsystem.digital.gov/)
+- Uses [U.S. Web Design System](https://designsystem.digital.gov/). Specifically the [Documentation Template](https://designsystem.digital.gov/page-templates/#documentation-page)
 - Uses [Open API Specification (OAS) 3.0](https://github.com/OAI/OpenAPI-Specification)
 
 
@@ -14,7 +14,7 @@ This is an updated version of the GSA API Documentation template. It has the fol
 - USWDS 1.6.8 - https://designsystem.digital.gov/download/
 
 ## Customization
-- For section 508 accessibility, edits have been made directly to the minified [swagger-ui-bundle.js](swagger-ui-bundle.js) file. This is a workaround, but the be situation would be for those changes to be implemented in the SwaggerUI.
+- For section 508 accessibility, edits have been made directly to the minified [swagger-ui-bundle.js](swagger-ui-bundle.js) file. This is a workaround, but the best situation would be for those changes to be implemented in the SwaggerUI.
 
 ## Running locally  
 
