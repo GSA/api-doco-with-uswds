@@ -10,7 +10,7 @@ This is an updated version of the GSA API Documentation template. It has the fol
 
 
 ## Dependencies
-- Swagger UI v 3.13.3 - https://github.com/swagger-api/swagger-ui/tree/v3.18.3
+- Swagger UI v 3.18.3 (with customizations) - https://github.com/swagger-api/swagger-ui/tree/v3.18.3
 - USWDS 1.6.8 - https://designsystem.digital.gov/download/
 
 ## Customization
