@@ -32,6 +32,6 @@ nav h1,h2,h3 {
     margin: 0!important;
 }
 
-div.swagger-ui svg {
+svg#swagger-svgs {
     display:none;
 }
