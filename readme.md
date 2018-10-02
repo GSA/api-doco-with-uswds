@@ -6,7 +6,7 @@ This is an updated version of the GSA API Documentation template. It has the fol
 - Uses [Open API Specification (OAS) 3.0](https://github.com/OAI/OpenAPI-Specification)
 
 
-![alt text](screenshot_of_doco_template.png "Screenshot of API documentation template with Prototype City Pairs API")
+![alt text](other/screenshot_of_doco_template.png "Screenshot of API documentation template with Prototype City Pairs API")
 
 
 ## Dependencies
@@ -16,7 +16,7 @@ This is an updated version of the GSA API Documentation template. It has the fol
 ## Customization for Accessbility
 - For section 508 accessibility, edits have been made directly to the minified [swagger-ui-bundle.js](swagger-ui-bundle.js) file. This is a workaround, but the best situation would be for those changes to be implemented in the SwaggerUI.
 - To see the original violations before the customization, view the [original AMP report](other/AMP_report_original.pdf) and [detail](other/AMP_violations_before_customization.xls).
-- To see the result of the customizations, view the [updated report](AMP_report_after_customization.pdf).
+- To see the result of the customizations, view the [updated report](AMP_report_after_customization.pdf)
 
 ## Running locally  
 
