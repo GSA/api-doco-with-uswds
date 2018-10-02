@@ -1,7 +1,7 @@
 # GSA API Documentation Template - accessible and using USWDS
 
 This is an updated version of the GSA API Documentation template. It has the following improvements:
-- Has passed 508 accessbility testing
+- Has passed 508 accessibility testing
 - Uses U.S. Web Design System
 
 ## Running locally
