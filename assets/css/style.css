@@ -31,3 +31,7 @@ hgroup.main a.link {
 nav h1,h2,h3 {
     margin: 0!important;
 }
+
+div.swagger-ui svg {
+    display:none;
+}
