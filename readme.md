@@ -5,7 +5,7 @@
 This is an updated version of the GSA API Documentation template. You can see a working version of it here: [https://ryandaydev.github.io/api-doco-with-uswds/](https://ryandaydev.github.io/api-doco-with-uswds/).
 
 It has the following improvements from the existing GSA API documentation template:
-- Tested for [Section 508 accessbility](https://section508.gov/)
+- Tested for [Section 508 accessibility](https://section508.gov/)
 - Uses [U.S. Web Design System](https://designsystem.digital.gov/). Specifically the [Documentation Template](https://designsystem.digital.gov/page-templates/#documentation-page)
 - Uses [Open API Specification (OAS) 3.0](https://github.com/OAI/OpenAPI-Specification)
 
