@@ -1,8 +1,8 @@
-** Rough Draft In Progress **
+**Rough Draft In Progress**
 
 # API Documentation Template - simple, accessible and using USWDS
 
-This is an updated version of the GSA API Documentation template. You can see a working version of it here: [https://ryandaydev.github.io/api-doco-with-uswds/](https://ryandaydev.github.io/api-doco-with-uswds/).
+This is an updated version of the GSA API Documentation template. You can see a working version of it here: [https://gsa.github.io/api-doco-with-uswds/](https://gsa.github.io/api-doco-with-uswds/).
 
 It has the following improvements from the existing GSA API documentation template:
 - Tested for [Section 508 accessibility](https://section508.gov/)
